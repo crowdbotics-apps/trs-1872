@@ -1,0 +1,3 @@
+rootProject.name = 'trs_1872'
+
+include ':app'
